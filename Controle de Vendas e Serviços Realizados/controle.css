@@ -1,0 +1,46 @@
+h1 {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 60px;
+	color: white;
+}
+* {
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+::-webkit-input-placeholder {
+   color: black;
+}
+ 
+:-moz-placeholder { /* Firefox 18- */
+   color: black;  
+}
+ 
+::-moz-placeholder {  /* Firefox 19+ */
+   color: black;  
+}
+ 
+:-ms-input-placeholder {  
+   color: black;  
+}  
+p {
+	font-size: 20px;
+}
+
+fieldset {
+	text-align: center;
+	background-color: #CD0000;
+}
+
+body {
+	background-image:url(images/imagem.jpg);
+	background-size: cover;
+}
+.bt {
+	color: black;
+	border:2px solid #CD0000;
+	border-radius:4px;
+	font-family: Arial;
+	font-size: 20px;
+}

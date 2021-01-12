@@ -1,0 +1,28 @@
+h1 {
+	font-family: Arial;
+	font-style: bold;
+	font-size: 60px;
+}
+* {
+	text-align: center;
+	color: white;
+	font-style: bold;
+}
+
+
+fieldset {
+	text-align: center;
+	background-color: #CD0000;
+}
+
+body {
+	background-image:url(images/imagem.jpg);
+	background-size: cover;
+}
+.bt {
+	color: black;
+	border:2px solid #CD0000;
+	border-radius:4px;
+	font-family: Arial;
+	font-size: 20px;
+}
